@@ -1,1 +1,1 @@
-document.getElementById("kociacaptcha").innerHTML = <h1>siema</h1>
+document.getElementById("kociacaptcha").innerHTML = siema
